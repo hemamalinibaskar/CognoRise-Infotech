@@ -1,0 +1,4 @@
+Student ID: h
+Name: hema
+Date of Birth: 2000-12-30
+Email: hema1230@gmail.com

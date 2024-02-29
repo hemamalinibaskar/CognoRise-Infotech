@@ -18,6 +18,7 @@ About CognoRise InfoTech:-
 
 CognoRise InfoTech is a leading IT services and consulting company based in Chennai, Tamil Nadu, India. During my internship here, I had the opportunity to work on various projects and gain hands-on experience in Java development.
 
+
 Projects:-
 
 Project 1: Number Guessing Game 🎲
@@ -31,8 +32,11 @@ This project aims to provide an entertaining way to practice Java programming fu
 Key Features:
 
 -Interactive console-based game.
+
 -Three difficulty levels: Easy, Medium, and Hard.
+
 -Set your own range of numbers to guess.
+
 -Keep track of the lowest attempts for each difficulty level.
 
 Dependencies: 
@@ -60,6 +64,7 @@ Setup Instructions:
 Usage Guidelines:
 
 -Follow the on-screen instructions to select the difficulty level and start guessing numbers within the specified range.
+
 -Challenge yourself to achieve the lowest number of attempts and share your achievements in the comments section!
 
 Project 2: Student Course Registration 📚
@@ -73,9 +78,13 @@ The purpose of this project is to provide a simplified system for managing stude
 Key Features:
 
 -Add students with unique IDs.
+
 -Add courses with unique course codes.
+
 -Register students for courses.
+
 -Drop courses for students.
+
 -Display student details and registered courses.
 
 Dependencies: 
@@ -85,7 +94,9 @@ No external dependencies required.
 Usage Guidelines:
 
 -Use the provided menu to navigate through different options.
+
 -Add students and courses before registering students for courses.
+
 -Follow on-screen prompts to register or drop courses for students.
 
 Project 3: Course Registration System 📝
@@ -99,8 +110,11 @@ This project builds upon the previous student course registration system to inco
 Key Features:
 
 -Improved user interface with clearer menu options.
+
 -Error handling for invalid inputs.
+
 -Enhanced course registration process.
+
 -Student file creation for each registered student.
 
 Dependencies: 
@@ -110,6 +124,7 @@ No external dependencies required.
 Usage Guidelines:
 
 -Navigate through the menu options to add students, add courses, register/drop courses, and display student details.
+
 -Follow on-screen prompts and instructions for each operation.
 
 Project 4: Calculator App 🧮
@@ -123,7 +138,9 @@ This project aims to provide a basic calculator functionality for performing ari
 Key Features:
 
 -Interactive console-based calculator.
+
 -Supports addition, subtraction, multiplication, and division.
+
 -Error handling for invalid inputs and division by zero.
 
 Dependencies:
@@ -133,25 +150,35 @@ No external dependencies required.
 Usage Guidelines:
 
 -Follow the on-screen menu to input numbers and operators.
+
 -Enter '=' to calculate the result or 'exit' to quit the calculator.
+
 
 Skills Developed:-
 
 During my internship at CognoRise InfoTech, I have developed and enhanced the following skills:
 
 -Java programming
+
 -Software development
+
 -Problem-solving
+
 -Analyzing problems
+
 -User Interface Design
+
 -Debugging and Troubleshooting
+
 -Agile Methodologies
+
 -Attention to Detail
 
 
 Contributions:-
 
 Contributions to this repository are welcome! If you have any ideas for improvement or would like to contribute to existing projects, feel free to submit a pull request.
+
 
 Contact:-
 

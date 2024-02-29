@@ -109,7 +109,7 @@ No external dependencies required.
 
 Usage Guidelines:
 
-=Navigate through the menu options to add students, add courses, register/drop courses, and display student details.
+-Navigate through the menu options to add students, add courses, register/drop courses, and display student details.
 -Follow on-screen prompts and instructions for each operation.
 
 Project 4: Calculator App 🧮
